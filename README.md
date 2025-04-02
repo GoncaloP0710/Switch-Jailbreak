@@ -15,6 +15,14 @@ Welcome to the **Switch Jailbreak** repository. This project is intended to prov
 
 ---
 
+## End Result
+
+<img src="README_Files/Home.jpg" alt="plot" width="400"/> <img src="README_Files/Apps.jpg" alt="plot" width="400"/>
+
+In both pictures, there is an example of the Nintendo Switch after the installation. As you can see, it has a custom theme and access to install various apps, such as emulators.
+
+---
+
 ## Getting Started
 
 ### Prerequisites
@@ -35,8 +43,7 @@ Before proceeding, ensure you have:
    git clone https://github.com/GoncaloP0710/Switch_Jailbreak.git
    ```
 
-3. **Prepare Your SD Card**: Format your microSD card as FAT32 or exFAT and transfer the required files to it.
-4. **Install the correct software**: All the software needed is here, for more details check online. Also dont forget to install the necessary drivers.
+3. **Follow the Guide**: Visit [switch.hacks.guide](https://switch.hacks.guide/) and follow the detailed instructions provided on the site to prepare your console for jailbreaking.
 
 ---
 
